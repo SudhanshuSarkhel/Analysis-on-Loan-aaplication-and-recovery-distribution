@@ -1,4 +1,4 @@
-# Analysis-on-Loan-aaplication-and-recovery-distribution
+# Analysis-on-Loan-application-and-recovery-distribution
 Certainly! Here's a revised version of your readme file:
 
 ---
